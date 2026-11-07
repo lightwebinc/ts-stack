@@ -1,5 +1,5 @@
 > **Fork note (lightwebinc).** Branch `overlay/on-topic-failed` adds an optional `Engine.onTopicFailed` reporter to `@bsv/overlay` (released as 2.7.0 here).
-> It is proposed upstream in [bsv-blockchain/ts-stack#829](https://github.com/bsv-blockchain/ts-stack/pull/829); this fork goes away once that merges.
+> It was merged upstream in [bsv-blockchain/ts-stack#829](https://github.com/bsv-blockchain/ts-stack/pull/829) (2026-10-26); use upstream `@bsv/overlay` 2.7.0 or later. This branch is kept for reference only.
 > Everything else tracks upstream `main`.
 
 # ts-stack
